@@ -2,6 +2,9 @@
 
 ## Measure CPU | Memory
 
+### Requirement
+- Python version 3.*+
+
 ### Install
 
 - git clone https://github.com/slavakharchenko/hometask.git
